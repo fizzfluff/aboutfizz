@@ -5797,6 +5797,10 @@ button.bg-dark:focus {
   -ms-flex-align: center !important;
   align-items: center !important; }
 
+.bottomuwu {
+  position: absolute;
+  bottom: 10px; }
+
 .align-items-baseline {
   -webkit-box-align: baseline !important;
   -ms-flex-align: baseline !important;
@@ -8240,7 +8244,7 @@ textarea.form-control {
     margin-bottom: 0; }
     .info-wrap .dbox p span {
       font-weight: 400;
-      color: rgba(255, 255, 255, 0.4);
+      color: rgba(255, 255, 255, 1);
       font-size: 20px;
       display: block;
       text-transform: uppercase; }
